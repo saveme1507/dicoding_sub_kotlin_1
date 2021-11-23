@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">search</string>
+    <string name="menu_share">menu_share</string>
+    <string name="app_name">Github Saya</string>
+    <string name="photo_user">foto pengguna</string>
+    <string name="logo_github">logo github</string>
+    <string name="photo_view">Lihat Foto</string>
+    <string name="close_button">close button</string>
+    <string name="msg_loading">Tunggu sebentar…</string>
+    <string name="change_language">Ganti bahasa</string>
+    <string name="hint_search_users">Cari Penggguna</string>
+    <string name="title_tabs_1">pengikut</string>
+    <string name="title_tabs_2">mengikuti</string>
+    <string name="user_not_found">user tidak ditemukan</string>
+    <string name="error_parsing_json">kesalahan penguraian json</string>
+    <string name="title_search_activity">Cari Pengguna Github</string>
+    <string name="msg_double_click_close">Tekan sekali lagi untuk keluar</string>
+    <string name="msg_error_process">Terjadi kesalahan</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Diikuti</string>
+    <string name="repository">Gudang</string>
+    <string name="add_favorite">Tambah favorit berhasil!</string>
+    <string name="delete_favorite">Hapus favorit berhasil!</string>
+    <string name="toast_error">Terjadi Kesalahan</string>
+    <string name="user_favorite">Pengguna Favorite</string>
+    <string name="hint_username">Nama Pengguna</string>
+    <string name="title_menu_setting">pengaturan</string>
+    <string name="menu_change_theme">Pilih Tema</string>
+    <string name="enable_dark_mode">Aktifkan Mode Gelap</string>
+</resources>

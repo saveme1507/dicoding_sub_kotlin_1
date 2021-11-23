@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Github</string>
+    <string name="photo_user">photo user</string>
+    <string name="menu_share">menu_share</string>
+    <string name="logo_github">logo github</string>
+    <string name="photo_view">photo view</string>
+    <string name="close_button">close button</string>
+    <string name="msg_loading">Please Wait…</string>
+    <string name="search">search</string>
+    <string name="change_language">change language</string>
+    <string name="hint_search_users">Search Users</string>
+    <string name="title_tabs_1">follower</string>
+    <string name="title_tabs_2">following</string>
+    <string name="user_not_found">user not found</string>
+    <string name="error_parsing_json">error parsing json</string>
+    <string name="title_search_activity">Github User\'s Search</string>
+    <string name="msg_double_click_close">Press again to exit</string>
+    <string name="msg_error_process">There is an error</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="add_favorite">Add Favorite Success!</string>
+    <string name="delete_favorite">Delete Favorite Success!</string>
+    <string name="toast_error">There is an error</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="hint_username">Username</string>
+    <string name="title_menu_setting">setting</string>
+    <string name="menu_change_theme">Change Theme</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+</resources>
